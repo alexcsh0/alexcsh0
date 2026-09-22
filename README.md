@@ -1,10 +1,5 @@
 ## Hello! I'm Alex. 👋
 
-connect:
-
-open to conversations beyond titles and resumes —  
-whether it’s professional, personal, or somewhere in between.
-
 linkedin: https://www.linkedin.com/in/dev-alexchung/
 email: chungalexsh@gmail.com
 
